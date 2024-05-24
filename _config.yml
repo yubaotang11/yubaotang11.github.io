@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhe Liu"
-description              : "Assistant scientist of Chinese Academy of Sciences, research includes Software Engineering and Human Machine Interaction. "
-repository               : "zheliu6/zheliu6.github.io"
+title                    : "Yubao Tang"
+description              : "Candidate Ph.D. at ICT, UCAS"
+repository               : "https://github.com/yubaotang11"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhe Liu"
-  avatar           : "images/liuzhe.png"
-  bio              : "Institute of Software Chinese Academy of Sciences"
+  name             : "Yubao Tang"
+  avatar           : "images/tangyubao.png"
+  bio              : "Institute of Computing Technology, Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=D27QoFMAAAAJ"
-  email            : "liuzhe2020@iscas.ac.cn"
-  researchgate     : "https://www.researchgate.net/profile/Zhe-Liu-65"
+  googlescholar    : "https://scholar.google.com/citations?user=b4ZWr4oAAAAJ&hl=en&oi=ao"
+  email            : "ltangyubao21b@ict.ac.cn"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/%E5%93%B2-%E5%88%98-9b0807214"
-  dblp             : "https://dblp.org/pid/70/1220-25.html"
-  orcid            : "https://orcid.org/0000-0001-9709-8275"
+  linkedin         : 
+  dblp             : 
+  orcid            : "https://orcid.org/0009-0003-8010-3404"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -55,9 +55,9 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UC7sDToLmaDX5T-M4KSD1ttQ"
+  youtube          : 
   wikipedia        :
-  wechat           : "18215599102"
+  wechat           : "lightntingtyb"
 
 
 # Reading Files
