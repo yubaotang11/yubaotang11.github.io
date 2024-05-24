@@ -55,7 +55,9 @@ Weiwei Sun is invited as a special speaker at TheWebConf 2024
 [2023] **Official site retrieval at Baidu search engine**  
 Official site retrieval task aims to understand query intents on official sites operated by administrative units, and further guide the search engine to recall relevant official sites. We designed a generative retrieval method, called Semantic-enhanced DSI (Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies), and applied it into this task, which significantly outperformed the existing baseline of Baidu search engine by 8.83% in terms of Recall@20 on the online dataset.
 
-
+# 📝 Projects
+[2023] **GoMate: Retrieval-augmented Language Model**  
+GoMate is a comprehensive knowledge-based Q&A application based on large LLMs. It primarily includes a query understanding module, a retrieval module, an LLM module for retrieval enhancement, a reference tracing module, and an answer generation module. I am one of the core developers, responsible for the development of the query understanding and retrieval modules.
 
 # 🎖 Honors and Awards
 *2023*: 🎖 President of Institute of Computing Technologys the Prize Scholarship (中国科学院计算所所长优秀奖)  
