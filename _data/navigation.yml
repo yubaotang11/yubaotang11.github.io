@@ -9,17 +9,30 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Tutorials"
+    url: "/#-tutorials"
+
+  - title: "Industry applications"
+    url: "/#-industry-applications"
+
+  - title: "Projects"
+    url: "/#-projects"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Projects"
-    url: "/#-projects"
+  - title: "Talks"
+    url: "/#-talks"
 
-  - title: "Interests"
-    url: "/#-interests"
+  - title: "Service"
+    url: "/#-service"
 
-  - title: "Visitors"
-    url: "/#-visitors"
+
+  # - title: "Interests"
+  #   url: "/#-interests"
+
+  # - title: "Visitors"
+  #   url: "/#-visitors"
