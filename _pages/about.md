@@ -17,13 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an assistant to special researcher (assistant scientist) at the Institute of Software Chinese Academy of Sciences, University of Chinese Academy of Sciences, China. I obtained my PhD from University of Chinese Academy of Sciences (UCAS), China. I received the ACM Student Research Competition (SRC) 2023 Grand Finals Winners, 1st Place, Graduate Category, in 2023. (The first doctoral student in Chinese Mainland to win the honor.) My research focuses on Software Engineering, Mobile Testing, Deep Learning and Human-Computer Interaction. Specifically, I apply AI and light-weight program analysis technology in the following directions:
-
-AI(LLM)-assisted automated mobile app development including requirement elicitation app GUI testing [ICSE'23a, ICSE'23b, ICSE'24a, ICSE'24b], usability [ASE'20, FSE'21, TSE'22, ASE'22], and bug replay [ICSE'23, ICSE'24].
-
-Human machine collaborative testing including testing guide for testers [CHI'24, CHI'22, ICSE'22].
-
-AI-empowered mining software repository including issue report mining [ESEM'20, ESEM'21].
+I am now a third year Ph.D. student supervised by Prof. Jiafeng Guo, in Computer Science at Institute of Computing Technology, Chinese Academy of Sciences. My general research interests lie in the field of information retrieval and natural language processing. Now, My mainly focuses on generative information retrieval.
 
 
 My research interest includes Software Engineering and Human Machine Interaction. I have published 15 papers at the top international Software Engineering and Human Machine Interaction conferences/journal (CCF-A) with total <a href='https://scholar.google.com/citations?user=D27QoFMAAAAJ'>google scholar citations <strong><span id='total_cit'>330</span></strong></a>.
