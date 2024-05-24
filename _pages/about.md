@@ -76,7 +76,7 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
 - *Kuaishou, 2023*, Semantic-Enhanced Differentiable Search Index
 
 # 💗 Service
-- *Reviewer*, Transactions on Information Systems, Gen-IR@SIGIR24, Gen-IR@SIGIR23, WI-IAT 2023
-- *Program Committee*, Gen-IR@SIGIR24, Gen-IR@SIGIR23
-- *Volunteer*, SIGIR-AP 2023
+- *Reviewer*: Transactions on Information Systems, Gen-IR@SIGIR24, Gen-IR@SIGIR23, WI-IAT 2023
+- *Program Committee*: Gen-IR@SIGIR24, Gen-IR@SIGIR23
+- *Volunteer*: SIGIR-AP 2023
 
