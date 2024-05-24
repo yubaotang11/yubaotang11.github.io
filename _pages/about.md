@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a third year Ph.D. student supervised by Prof. Jiafeng Guo, in Computer Science at Institute of Computing Technology, Chinese Academy of Sciences. My general research interests lie in the field of information retrieval and natural language processing. Now, My mainly focuses on generative information retrieval.
+I am now a third year Ph.D. student supervised by Prof.[Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/), in Computer Science at Institute of Computing Technology, Chinese Academy of Sciences. My general research interests lie in the field of information retrieval and natural language processing. Now, My mainly focuses on generative information retrieval.
 
 
 # 🔥 News
