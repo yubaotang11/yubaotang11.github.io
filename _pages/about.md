@@ -21,10 +21,10 @@ I am now a third year Ph.D. student supervised by Prof.[Jiafeng Guo](http://www.
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 A research paper is accepted at The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024).
-- *2024.04*: &nbsp;🎉🎉 A research paper is accepted at Transactions on Information Systems (TOIS).
-- *2023.12*: &nbsp;🎉🎉 I received the "President of Institute of Computing Technologys the Prize Scholarship"(中国科学院计算所所长优秀奖).
-- *2023.08*: &nbsp;🎉🎉 A research paper "Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies" is applied to the official site retrieval scenario at Baidu search.
+- *May. 2024*: &nbsp;🎉🎉 A research paper is accepted at The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024).
+- *Apr. 2024*: &nbsp;🎉🎉 A research paper is accepted at Transactions on Information Systems (TOIS).
+- *Dec. 2023*: &nbsp;🎉🎉 I received the "President of Institute of Computing Technologys the Prize Scholarship"(中国科学院计算所所长优秀奖).
+- *Aug. 2023*: &nbsp;🎉🎉 A research paper "Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies" is applied to the official site retrieval scenario at Baidu search.
 
 # 📝 Publications 
 [ACL 2024] **Bootstrapped Pre-training with Dynamic Identifier Prediction for Generative Retrieval**  
@@ -64,22 +64,22 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
 
 # 🎖 Honors and Awards
 *2023*: 🎖 President of Institute of Computing Technologys the Prize Scholarship (中国科学院计算所所长优秀奖)  
-*2021, 2022, 2023*: 🎖 Merit Student, University of Chinese Academy of Sciences (中国科学院大学三好学生)
+*2021, 2022, and 2023*: 🎖 Merit Student, University of Chinese Academy of Sciences (中国科学院大学三好学生)
 
 
 # 📖 Educations
-- *2021.09 - Present*, Ph.D. Candidate, University of Chinese Academy of Sciences  
-- *2018.09 - 2021.06*, Master, University of Chinese Academy of Sciences  
-- *2014.09 - 2018.06*, Undergraduate, Sichuan University  
+- *Sep. 2021 - Present*, Ph.D. Candidate, University of Chinese Academy of Sciences  
+- *Sep. 2018 - Jun. 2021*, Master, University of Chinese Academy of Sciences  
+- *Sep. 2014 - Jun. 2018*, Undergraduate, Sichuan University  
 
 # 🎙️ Talks
 - *Baidu, 2024*, Recent Advances in Generative Information Retrieval
 - *Kuaishou, 2023*, Semantic-Enhanced Differentiable Search Index
 
 # 📝 Intership 
-- *2023.05-Present*, Baidu search
+- *May. 2023-Present*, Baidu search
 
-# 💗 Service
+# 💗 Academic Service
 - *Reviewer*: Transactions on Information Systems, Gen-IR@SIGIR24, Gen-IR@SIGIR23, WI-IAT 2023
 - *Program Committee*: Gen-IR@SIGIR24, Gen-IR@SIGIR23
 - *Volunteer*: SIGIR-AP 2023
