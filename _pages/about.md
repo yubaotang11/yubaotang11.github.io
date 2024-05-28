@@ -24,7 +24,7 @@ I am now a third year Ph.D. student supervised by Prof.[Jiafeng Guo](http://www.
 - *2024.05*: &nbsp;🎉🎉 A research paper is accepted at The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024).
 - *2024.04*: &nbsp;🎉🎉 A research paper is accepted at Transactions on Information Systems (TOIS).
 - *2023.12*: &nbsp;🎉🎉 I received the "President of Institute of Computing Technologys the Prize Scholarship"(中国科学院计算所所长优秀奖).
-- *2023.08*: &nbsp;🎉🎉 A research paper "Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies" is applied to the official site retrieval scenario at Baidu search engine.
+- *2023.08*: &nbsp;🎉🎉 A research paper "Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies" is applied to the official site retrieval scenario at Baidu search.
 
 # 📝 Publications 
 [ACL 2024] **Bootstrapped Pre-training with Dynamic Identifier Prediction for Generative Retrieval**  
@@ -52,10 +52,11 @@ Weiwei Sun is invited as a special speaker at TheWebConf 2024
 
 
 # 📝 Industry applications
-[2024-Present] **Retrieval-augmented Language Model and QA at Baidu search engine**
+[2024-Present] **Retrieval-augmented Language Model and QA at Baidu search**
 
-[2023] **Official site retrieval at Baidu search engine**  
+[2023] **Official site retrieval at Baidu search**  
 Official site retrieval task aims to understand query intents on official sites operated by administrative units, and further guide the search engine to recall relevant official sites. We designed a generative retrieval method, called Semantic-enhanced DSI (Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies), and applied it into this task, which significantly outperformed the existing baseline of Baidu search engine by 8.83% in terms of Recall@20 on the online dataset.
+
 
 # 📝 Projects
 [2023] **GoMate: Retrieval-augmented Language Model**  
@@ -74,6 +75,9 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
 # 🎙️ Talks
 - *Baidu, 2024*, Recent Advances in Generative Information Retrieval
 - *Kuaishou, 2023*, Semantic-Enhanced Differentiable Search Index
+
+# 📝 Intership 
+- *2023.05-Present*, Baidu search
 
 # 💗 Service
 - *Reviewer*: Transactions on Information Systems, Gen-IR@SIGIR24, Gen-IR@SIGIR23, WI-IAT 2023
