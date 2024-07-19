@@ -59,8 +59,8 @@ Official site retrieval task aims to understand query intents on official sites 
 
 
 # 📝 Projects
-[2023] **GoMate: Retrieval-augmented Language Model**  
-GoMate is a comprehensive knowledge-based QA application based on large LLMs. It primarily includes a query understanding module, a retrieval module, an LLM module for retrieval enhancement, a reference tracing module, and an answer generation module. I am one of the core developers, responsible for the development of the query understanding and retrieval modules.
+[2023] **SearchGPT: Retrieval-augmented Language Model**  
+SearchGPT is a comprehensive knowledge-based QA application based on large LLMs. It primarily includes a query understanding module, a retrieval module, an LLM module for retrieval enhancement, a reference tracing module, and an answer generation module. I am one of the core developers, responsible for the development of the query understanding and retrieval modules.
 
 # 🎖 Honors and Awards
 *2023*: 🎖 President of Institute of Computing Technologys the Prize Scholarship (中国科学院计算所所长优秀奖)  
