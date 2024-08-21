@@ -76,8 +76,8 @@ GoGPT is a comprehensive knowledge-based QA application based on large LLMs. It 
 - *Sep. 2014 - Jun. 2018*, Undergraduate, Sichuan University  
 
 # 🎙️ Talks
-- 2024, ``Recent Advances in Generative Information Retrieval'' at Baidu Inc. [[Slides](resources/GR_Tutorial_Slides_for_baidu.pdf)] 
-- 2023, ``Semantic-Enhanced Differentiable Search Index'' at Kuaishou Inc. [[Slides](resources/Introduction_to_GR.pdf)] 
+- 2024, "Recent Advances in Generative Information Retrieval" at Baidu Inc. [[Slides](resources/GR_Tutorial_Slides_for_baidu.pdf)] 
+- 2023, "Semantic-Enhanced Differentiable Search Index" at Kuaishou Inc. [[Slides](resources/Introduction_to_GR.pdf)] 
 
 # 📝 Intership 
 - *May. 2023-Present*, Baidu search
