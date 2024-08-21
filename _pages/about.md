@@ -27,18 +27,18 @@ I am now a third year Ph.D. student supervised by Prof.[Jiafeng Guo](http://www.
 - *Aug. 2023*: &nbsp;🎉🎉 A research paper "Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies" is applied to the official site retrieval scenario at Baidu search.
 
 # 📝 Publications 
-[ACL 2024] **Bootstrapped Pre-training with Dynamic Identifier Prediction for Generative Retrieval**  [[PDF](resources/ACL24-Bootstrapped Pre-training with Dynamic Identifier Prediction for Generative  Retrieval.pdf)]
+[ACL 2024] **Bootstrapped Pre-training with Dynamic Identifier Prediction for Generative Retrieval**  [[PDF](resources/ACL24-Bootstrapped_Pre-training_with_Dynamic_Identifier_Prediction_for_Generative_Retrieval.pdf)] [[Poster](resources/poster-BootRet-ACL_Findings_1874.pdf)] [[Slides](resources/slides-BootRet-ACL_Findings_1874.pptx)]
 
    The 62nd Annual Meeting of the Association for Computational Linguistics (CCF-A)  
    **_Yubao Tang_**, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yixing Fan, Xueqi Cheng  
 
 
-[TOIS] **Listwise Generative Retrieval Models via a Sequential Learning Process** [[PDF](resources/TOIS-Listwise Generative Retrieval Models via a Sequential Learning Process.pdf)]
+[TOIS] **Listwise Generative Retrieval Models via a Sequential Learning Process** [[PDF](resources/TOIS-Listwise_Generative_Retrieval_Models_via_a_Sequential_Learning_Process.pdf)]
 
    Transactions on Information Systems (CCF-A)  
    **_Yubao Tang_**, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, Xueqi Cheng  
 
-[KDD 2023] **Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies** [[PDF](resources/KDD23-Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies.pdf)] 
+[KDD 2023] **Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies** [[PDF](resources/KDD23-Semantic-Enhanced_Differentiable_Search_Index_Inspired_by_Learning_Strategies.pdf)] [[Slides](resources/SE-DSI.pptx)]
 
    Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (CCF-A)  
    **_Yubao Tang_**, Ruqing Zhang, Jiafeng Guo, Jiangui Chen, Zuowei Zhu, Shuaiqiang Wang, Dawei Yin, Xueqi Cheng
