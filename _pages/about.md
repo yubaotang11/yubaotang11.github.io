@@ -55,7 +55,7 @@ Weiwei Sun is invited as a special speaker at TheWebConf 2024
 
 
 # 📝 Industry applications
-[2024-Present] **Book search**
+[2024-Present] **Book search**  
 Books contain complex, multi-faceted information. To address the unique challenges in book search, we designed an effective GR framework for book search, including data augmentation and oultine-oriented book encoding, which outperforms the state-of-the-art GR baseline by 9.8% in terms of MRR@20 on the Baidu dataset.
 
 [2023] **Official site retrieval at Baidu search**  
