@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a forth year Ph.D. student supervised by Prof.[Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/), in Computer Science at Institute of Computing Technology, Chinese Academy of Sciences. My general research interests lie in the field of information retrieval and natural language processing. Now, My mainly focuses on generative information retrieval.
-
+I am now a forth year Ph.D. student supervised by Prof.[Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/), in Computer Science at Institute of Computing Technology, Chinese Academy of Sciences. My research is focused on information retrieval, and in particular on the recently emerging paradigm of generative retrieval. In generative retrieval, all information about the corpus is encoded within a consolidated model as its parameters. The model autoregressively generate relevant document identifiers for queries, while dense retrieval methods match pre-indexed documents with queries. Generative retrieval enables end-to-end optimization, faster inference, and reduced storage costs. My specific research explores generative retrieval modeling theory, relevance learning mechanisms for complex search scenarios, and practical applications.
 
 # 🔥 News
 - *May. 2024*: &nbsp;🎉🎉 A research paper is accepted at The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024).
