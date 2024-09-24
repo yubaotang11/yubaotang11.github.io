@@ -65,8 +65,8 @@ Official site retrieval task aims to understand query intents on official sites 
 [2024] **Co-training framework for Retrieval-augmented Generation and Generation-augmented Retrieval**  
 We design the framework as a cooperative two-player game, leveraging the complementarity between retrieval-augmented generation (RAG) and generation-augmented retrieval (GAR) to progressively improve RAG performance. Additionally, we address privacy concerns, particularly the leakage of Personally Identifiable Information (PII), by identifying and neutralizing the neurons in the generator responsible for PII while preserving model performance.
 
-[2023] **GoGPT: Retrieval-augmented Language Model**  
-GoGPT is a comprehensive knowledge-based QA application based on large LLMs. It primarily includes a query understanding module, a retrieval module, an LLM module for retrieval enhancement, a reference tracing module, an answer generation module, and an user privacy protection module. Users might inadvertently disclose private information while interacting with GoGPT. To address this problem, our approach is to identify and mitigate user-side privacy leaks and to abstract user input into semantically similar but less specific and safer text.
+[2023] **GoMate: Retrieval-augmented Language Model**  [[Link](https://github.com/gomate-community/GoMate)]
+GoMate is a comprehensive knowledge-based QA application based on large LLMs. It primarily includes a query understanding module, a retrieval module, an LLM module for retrieval enhancement, a reference tracing module, an answer generation module, and an user privacy protection module. Users might inadvertently disclose private information while interacting with GoMate. To address this problem, our approach is to identify and mitigate user-side privacy leaks and to abstract user input into semantically similar but less specific and safer text.
 
 
 [2023] **Virtual Screening**  
