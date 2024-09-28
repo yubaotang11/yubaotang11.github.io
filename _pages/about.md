@@ -20,14 +20,14 @@ redirect_from:
 I am now a fourth year Ph.D. student supervised by Prof.[Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/), in Computer Science at Institute of Computing Technology, Chinese Academy of Sciences. My research is focused on information retrieval, and in particular on the recently emerging paradigm of generative retrieval. In generative retrieval, all information about the corpus is encoded within a consolidated model as its parameters. The model autoregressively generate relevant document identifiers for queries, while dense retrieval methods match pre-indexed documents with queries. Generative retrieval enables end-to-end optimization, faster inference, and reduced storage costs. My specific research explores generative retrieval in corpus modeling theory, relevance learning mechanisms for complex search scenarios, and practical applications.
 
 # 🔥 News
-- *Sep. 2024*: &nbsp;🎉🎉 A research paper is accepted at The 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024).
+- *Sep. 2024*: &nbsp;🎉🎉 A research paper is accepted at The 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024) as Spotlight.
 - *May. 2024*: &nbsp;🎉🎉 A research paper is accepted at The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024).
 - *Apr. 2024*: &nbsp;🎉🎉 A research paper is accepted at Transactions on Information Systems (TOIS).
 - *Dec. 2023*: &nbsp;🎉🎉 I received the "President of Institute of Computing Technology's Prize Scholarship"(中国科学院计算所所长优秀奖).
 - *Aug. 2023*: &nbsp;🎉🎉 A research paper "Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies" is applied to the official site retrieval scenario at Baidu search.
 
 # 📝 Publications 
-[NeurIPS 2024] **Generative Retrieval Meets Multi-Graded Relevance**    
+[NeurIPS 2024, Spotlight] **Generative Retrieval Meets Multi-Graded Relevance**    
    The 38th Annual Conference on Neural Information Processing Systems (CCF-A)  
    **_Yubao Tang_**, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Wei Chen, Xueqi Cheng  
    
