@@ -49,10 +49,17 @@ I am now a fourth year Ph.D. student supervised by Prof.[Jiafeng Guo](http://www
    Yixing Fan, **_Yubao Tang_**, Jiangui Chen, Ruqing Zhang, Jiafeng Guo
 
 # 🎙️ Tutorials
-[SIGIR-AP 2023, ECIR 2024, TheWebConf 2024, SIGIR 2024] **Recent Advances in Generative Information Retrieval** [[Website](https://thewebconf2024-generative-ir.github.io/)]   
+[SIGIR 2024] **Recent Advances in Generative Information Retrieval** [[Website](https://generative-ir.github.io)]   
+**_Yubao Tang_**, Ruqing Zhang, Zhaochun Ren, Jiafeng Guo, Maarten de Rijke  
+
+[TheWebConf 2024] **Recent Advances in Generative Information Retrieval** [[Website](https://thewebconf2024-generative-ir.github.io/)]   
+**_Yubao Tang_**, Ruqing Zhang, Weiwei Sun, Zhaochun Ren, Jiafeng Guo, Maarten de Rijke  
+
+[ECIR 2024] **Recent Advances in Generative Information Retrieval** [[Website](https://ecir2024-generativeir.github.io)]   
+**_Yubao Tang_**, Ruqing Zhang, Zhaochun Ren, Jiafeng Guo, Maarten de Rijke  
+
+[SIGIR-AP 2023] **Recent Advances in Generative Information Retrieval** [[Website](https://sigir-ap2023-generative-ir.github.io)]   
 **_Yubao Tang_**, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke  
-Zhaochun Ren is invited as a special speaker at ECIR 2024, TheWebConf 2024, SIGIR 2024  
-Weiwei Sun is invited as a special speaker at TheWebConf 2024
 
 
 # 📝 Industry applications
