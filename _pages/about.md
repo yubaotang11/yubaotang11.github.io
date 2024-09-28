@@ -107,6 +107,6 @@ Given a protein pocket as the query, it aims to retrieve from a large-scale mole
 
 # 💗 Academic Service
 - *Reviewer*: Transactions on Information Systems, Gen-IR@SIGIR24, Gen-IR@SIGIR23, WI-IAT 2023
-- *Program Committee*: Gen-IR@SIGIR24, Gen-IR@SIGIR23
+- *Program Committee*: CCIR, Gen-IR@SIGIR24, Gen-IR@SIGIR23
 - *Volunteer*: SIGIR-AP 2023
 
