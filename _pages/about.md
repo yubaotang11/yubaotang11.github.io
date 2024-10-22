@@ -78,9 +78,6 @@ We design the framework as a cooperative two-player game, leveraging the complem
 GoMate is a comprehensive knowledge-based QA application based on large LLMs. It primarily includes a query understanding module, a retrieval module, an LLM module for retrieval enhancement, a reference tracing module, an answer generation module, and an user privacy protection module. Users might inadvertently disclose private information while interacting with GoMate. To address this problem, our approach is to identify and mitigate user-side privacy leaks and to abstract user input into semantically similar but less specific and safer text.
 
 
-[2023] **Virtual Screening**  
-Given a protein pocket as the query, it aims to retrieve from a large-scale molecule library the relevant molecules. We develope a GR framework to generate relevant molecule identifiers for a given protein pocket.
-
 
 # 🎖 Honors and Awards
 *2023*: 🎖 President of Institute of Computing Technology's Prize Scholarship (中国科学院计算所所长优秀奖)  
@@ -106,7 +103,7 @@ Given a protein pocket as the query, it aims to retrieve from a large-scale mole
 - Yinchen Zhang (Master)  
 
 # 💗 Academic Service
-- *Reviewer*: Transactions on Information Systems, Gen-IR@SIGIR24, Gen-IR@SIGIR23, WI-IAT 2023
+- *Reviewer*: Transactions on Information Systems, Information Processing and Management, Gen-IR@SIGIR24, Gen-IR@SIGIR23, WI-IAT 2023
 - *Program Committee*: CCIR, Gen-IR@SIGIR24, Gen-IR@SIGIR23
 - *Volunteer*: SIGIR-AP 2023
 
