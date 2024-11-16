@@ -85,6 +85,7 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
 
 
 # 🎖 Honors and Awards
+*2024*: 🎖 National Scholarship (国家奖学金)
 *2023*: 🎖 President of Institute of Computing Technology's Prize Scholarship (中国科学院计算所所长优秀奖)  
 *2021, 2022, and 2023*: 🎖 Merit Student, University of Chinese Academy of Sciences (中国科学院大学三好学生)
 
