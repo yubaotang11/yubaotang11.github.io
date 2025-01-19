@@ -92,7 +92,7 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
 
 
 # 📖 Educations
-- *Sep. 2021 - Present*, Ph.D. Candidate, University of Chinese Academy of Sciences  
+- *Sep. 2021 - Jan. 2025*, Ph.D., University of Chinese Academy of Sciences  
 - *Sep. 2018 - Jun. 2021*, Master, University of Chinese Academy of Sciences  
 - *Sep. 2014 - Jun. 2018*, Undergraduate, Sichuan University  
 
