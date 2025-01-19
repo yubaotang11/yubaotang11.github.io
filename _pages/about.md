@@ -29,7 +29,7 @@ I am a postdoctoral researcher at University of Amsterdam, working with Prof.dr.
 - *Apr. 2024*: &nbsp;🎉🎉 A research paper is accepted at Transactions on Information Systems (TOIS).
 
 # 📝 Publications 
-[KDD 2025] **Generative Retrieval for Book Search** [[PDF](resources/)]     
+[KDD 2025] **Generative Retrieval for Book Search** [[PDF](resources/Generative_Retrieval_for_Book_Search.pdf)]     
    31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining  (CCF-A)  
    **_Yubao Tang_**, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Shihao Liu, Shuaiqiang Wang, Dawei Yin, Xueqi Cheng  
    
@@ -69,7 +69,7 @@ I am a postdoctoral researcher at University of Amsterdam, working with Prof.dr.
 
 
 # 📝 Industry applications
-[2024-Present] **Book search**  
+[2024] **Book search**  
 Books contain complex, multi-faceted information. To address the unique challenges in book search, we designed an effective GR framework for book search, including data augmentation and outline-oriented book encoding, which outperforms the state-of-the-art GR baseline by 9.8% in terms of MRR@20 on the Baidu dataset.
 
 [2023] **Official site retrieval at Baidu search**  
@@ -102,10 +102,10 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
 - *Nov. 2023*, "Semantic-Enhanced Differentiable Search Index" at Kuaishou Inc. [[Slides](resources/Introduction_to_GR.pdf)] 
 
 # 📝 Intership 
-- *May. 2023-Present*, Baidu search
+- *May. 2023-Dec. 2024*, Baidu search
 
 # 💗 Academic Service
-- *Reviewer*: Transactions on Information Systems, Information Processing and Management, Gen-IR@SIGIR24, Gen-IR@SIGIR23, WI-IAT 2023
+- *Reviewer*: KDD, Transactions on Information Systems, Information Processing and Management, Gen-IR@SIGIR24, Gen-IR@SIGIR23, WI-IAT 2023
 - *Program Committee*: CCIR, Gen-IR@SIGIR24, Gen-IR@SIGIR23
 - *Volunteer*: SIGIR-AP 2023
 
