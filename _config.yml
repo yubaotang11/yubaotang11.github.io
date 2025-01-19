@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yubao Tang"
-description              : "Ph.D. Candidate at ICT, UCAS"
+description              : "Postdoc researcher at Uva"
 repository               : "https://github.com/yubaotang11"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yubao Tang"
   avatar           : "images/tangyubao.png"
-  bio              : "Institute of Computing Technology, Chinese Academy of Sciences"
-  location         : "Beijing, China"
+  bio              : "University of Amsterdam"
+  location         : "Amsterdam, The Netherlands"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=b4ZWr4oAAAAJ&hl=en&oi=ao"
-  email            : "tangyubao21b@ict.ac.cn"
+  email            : "y.tang3@uva.nl"
   researchgate     : 
   uri              :
   bitbucket        :
