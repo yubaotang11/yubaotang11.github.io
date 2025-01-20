@@ -30,7 +30,7 @@ I am a postdoctoral researcher at University of Amsterdam, working with Prof.dr.
 
 # 📝 Publications 
 [KDD 2025] **Generative Retrieval for Book Search** [[PDF](resources/Generative_Retrieval_for_Book_Search.pdf)]     
-   31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining  (CCF-A)  
+   The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining  (CCF-A)  
    **_Yubao Tang_**, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Shihao Liu, Shuaiqiang Wang, Dawei Yin, Xueqi Cheng  
    
 [NeurIPS 2024, Spotlight] **Generative Retrieval Meets Multi-Graded Relevance** [[PDF](resources/Generative_Retrieval_Meets_Multi-Graded_Relevance.pdf)]    
