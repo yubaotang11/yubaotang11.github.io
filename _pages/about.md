@@ -105,7 +105,7 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
 - *May. 2023-Dec. 2024*, Baidu search
 
 # 💗 Academic Service
-- *Reviewer*: KDD, Transactions on Information Systems, Information Processing and Management, Gen-IR@SIGIR24, Gen-IR@SIGIR23, WI-IAT 2023
+- *Reviewer*: SIGIR 2025, ACL ARR 2025, KDD 2025, Transactions on Information Systems, Information Processing and Management, Gen-IR@SIGIR24, Gen-IR@SIGIR23, WI-IAT 2023
 - *Program Committee*: CCIR, Gen-IR@SIGIR24, Gen-IR@SIGIR23
 - *Volunteer*: SIGIR-AP 2023
 
