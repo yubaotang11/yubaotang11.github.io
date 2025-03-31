@@ -29,7 +29,7 @@ I am a postdoctoral researcher at University of Amsterdam, working with Prof.dr.
 - *Apr. 2024*: &nbsp;🎉🎉 A research paper is accepted at Transactions on Information Systems (TOIS).
 
 # 📝 Publications 
-[KDD 2025] **Generative Retrieval for Book Search** [[PDF](resources/Generative_Retrieval_for_Book_Search.pdf)] [[Video](https://drive.google.com/file/d/14iW5snxTzHNe1ms7OAKaE-HnLVR1t0V2/view?usp=sharing)]    
+[KDD 2025] **Generative Retrieval for Book Search** [[PDF](resources/Generative_Retrieval_for_Book_Search.pdf)] [[Video](https://www.youtube.com/watch?v=l4D__UBTAV4)]    
    The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining  (CCF-A)  
    **_Yubao Tang_**, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Shihao Liu, Shuaiqiang Wang, Dawei Yin, Xueqi Cheng  
    
