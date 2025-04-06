@@ -22,13 +22,22 @@ I am a postdoctoral researcher at University of Amsterdam, working with Prof.dr.
 
 
 # 🔥 News
+- *Apr. 2025*: &nbsp;🎉🎉 Two research papers are accepted at the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025).
 - *Nov. 2024*: &nbsp;🎉🎉 A research paper is accepted at the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).
 - *Nov. 2024*: &nbsp;🎉🎉 I received the "National Scholarship"(国家奖学金).
 - *Sep. 2024*: &nbsp;🎉🎉 A research paper is accepted at the 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024) as Spotlight.
 - *May. 2024*: &nbsp;🎉🎉 A research paper is accepted at the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024).
-- *Apr. 2024*: &nbsp;🎉🎉 A research paper is accepted at Transactions on Information Systems (TOIS).
 
 # 📝 Publications 
+[SIGIR 2025] **Boosting Retrieval-Augmented Generation with Generation-Augmented Retrieval: A Co-Training Approach**    
+   The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (CCF-A)  
+   **_Yubao Tang_**, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng  
+
+[SIGIR 2025] **Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval**    
+   The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (CCF-A)  
+   Kidist Amde Mekonnen, **_Yubao Tang_** and Maarten de Rijke  
+
+
 [KDD 2025] **Generative Retrieval for Book Search** [[PDF](resources/Generative_Retrieval_for_Book_Search.pdf)] [[Video](https://www.youtube.com/watch?v=l4D__UBTAV4)]    
    The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining  (CCF-A)  
    **_Yubao Tang_**, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Shihao Liu, Shuaiqiang Wang, Dawei Yin, Xueqi Cheng  
