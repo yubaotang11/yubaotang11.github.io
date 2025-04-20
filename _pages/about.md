@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral researcher at University of Amsterdam, working with Prof.dr.[Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/). I received my PhD degree from Institute of Computing Technology, Chinese Academy of Sciences, supervised by Prof.dr.[Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/). My research mainly focuses on Information Retrieval and Natural Language Processing. Currently, I’m working on applying language models on IR problems including generative document retrieval and retrieval-augmented generation.
+I am a postdoctoral researcher at University of Amsterdam, working with Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/). I received my PhD degree from Institute of Computing Technology, Chinese Academy of Sciences, supervised by Prof. dr. [Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/). My research mainly focuses on Information Retrieval and Natural Language Processing. Currently, I’m working on applying language models on IR problems including generative document retrieval and retrieval-augmented generation.
 
 
 
