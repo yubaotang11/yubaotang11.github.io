@@ -22,6 +22,7 @@ I am a postdoctoral researcher at University of Amsterdam, working with Prof. dr
 
 
 # 🔥 News
+- *Jun. 2025*: &nbsp;🎉🎉 I was recognized as an Outstanding Graduate of the University of Chinese Academy of Sciences, as well as an Outstanding Graduate of Beijing.
 - *Apr. 2025*: &nbsp;🎉🎉 Two research papers are accepted at the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025).
 - *Nov. 2024*: &nbsp;🎉🎉 A research paper is accepted at the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).
 - *Nov. 2024*: &nbsp;🎉🎉 I received the "National Scholarship"(国家奖学金).
@@ -29,14 +30,13 @@ I am a postdoctoral researcher at University of Amsterdam, working with Prof. dr
 - *May. 2024*: &nbsp;🎉🎉 A research paper is accepted at the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024).
 
 # 📝 Publications 
-[SIGIR 2025] **Boosting Retrieval-Augmented Generation with Generation-Augmented Retrieval: A Co-Training Approach**    
+[SIGIR 2025] **Boosting Retrieval-Augmented Generation with Generation-Augmented Retrieval: A Co-Training Approach** [[PDF](resources/MINT_SIGIR2025.pdf)]      
    The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (CCF-A)  
    **_Yubao Tang_**, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng  
 
-[SIGIR 2025] **Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval**    
+[SIGIR 2025] **Lightweight and Direct Document Relevance Optimization for Generative Information Retrieval** [[PDF](resources/DDRO-SIGIR2025.pdf)]   
    The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (CCF-A)  
    Kidist Amde Mekonnen, **_Yubao Tang_** and Maarten de Rijke  
-
 
 [KDD 2025] **Generative Retrieval for Book Search** [[PDF](resources/Generative_Retrieval_for_Book_Search.pdf)] [[Video](https://www.youtube.com/watch?v=l4D__UBTAV4)]    
    The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining  (CCF-A)  
@@ -93,7 +93,6 @@ We design the framework as a cooperative two-player game, leveraging the complem
 GoMate is a comprehensive knowledge-based QA application based on large LLMs. It primarily includes a query understanding module, a retrieval module, an LLM module for retrieval enhancement, a reference tracing module, an answer generation module, and an user privacy protection module. Users might inadvertently disclose private information while interacting with GoMate. To address this problem, our approach is to identify and mitigate user-side privacy leaks and to abstract user input into semantically similar but less specific and safer text.
 
 
-
 # 🎖 Honors and Awards
 - *2024*: 🎖 National Scholarship (国家奖学金)  
 - *2023*: 🎖 President of Institute of Computing Technology's Prize Scholarship (中国科学院计算所所长优秀奖)  
@@ -106,6 +105,7 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
 - *Sep. 2014 - Jun. 2018*, Undergraduate, Sichuan University  
 
 # 🎙️ Talks
+- *Jun. 2025*, "Recent Advances in Generative Information Retrieval" for University of Glasgow. (online) [[Slides](resources/Talk_GenIR_20250609.pdf)] 
 - *Sep. 2024*, "Generative Information Retrieval: Learning and Application Research" at Baidu Inc. 
 - *Jan. 2024*, "Recent Advances in Generative Information Retrieval" at Baidu Inc. [[Slides](resources/GR_Tutorial_Slides_for_baidu.pdf)] 
 - *Nov. 2023*, "Semantic-Enhanced Differentiable Search Index" at Kuaishou Inc. [[Slides](resources/Introduction_to_GR.pdf)] 
@@ -113,8 +113,17 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
 # 📝 Intership 
 - *May. 2023-Dec. 2024*, Baidu search
 
+# 📝 Teaching 
+- Recommender Systems (June 2025) – MSc Artificial Intelligence
+ - University of Amsterdam, Amsterdam, The Netherlands
+ - Developed and delivered lectures, guided students in reproducing recommendation methods, and conducted assessments.
+
+# 📝 Supervision 
+- Steven Dong (BSc., March 2025 – June 2025), University of Amsterdam
+ - Thesis: The integration of Chain of Thought in Generative Information Retrieval
+
 # 💗 Academic Service
-- *Reviewer*: NeurIPS 2025, SIGIR 2025, ACL ARR 2025, KDD 2025, Transactions on Information Systems, Information Processing and Management, Gen-IR@SIGIR24, Gen-IR@SIGIR23, WI-IAT 2023
-- *Program Committee*: CCIR, Gen-IR@SIGIR24, Gen-IR@SIGIR23
+- *Program Committee / Conference Reviewer*: WSDM 2025, EMNLP ARR 2025, NeurIPS 2025, SIGIR 2025, ACL ARR 2025, KDD 2025, Gen-IR@SIGIR24, Gen-IR@SIGIR23, WI-IAT 2023
+- *Journal reviewer*: Transactions on Information Systems, Information Processing and Management
 - *Volunteer*: SIGIR-AP 2023
 
