@@ -20,6 +20,23 @@ redirect_from:
 I am a postdoctoral researcher at University of Amsterdam, working with Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/). I received my PhD degree from Institute of Computing Technology, Chinese Academy of Sciences, supervised by Prof. dr. [Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/). My research mainly focuses on Information Retrieval and Natural Language Processing. Currently, I’m working on applying language models on IR problems including generative document retrieval, generative recommendation and retrieval-augmented generation.
 
 
+# 🔥 Call for PhD Students and Research Engineer in Generative Information Retrieval
+The IRLab at the UvA invites applications for three fully-funded PhD positions and one Research Engineer position in the area of generative information retrieval (GenIR), under the supervision of Prof. dr. Maarten de Rijke. You’ll contribute to *key research areas*:
+- Accuracy: Understanding generalization and establishing performance guarantees across retrieval tasks.  
+- Reliability: Examining how different indexing/generation strategies affect consistency across user groups, query types, and output forms.  
+- Resilience: Incorporating mechanisms for adapting to changing corpora and adversarial scenarios without retraining.  
+- Probing: Developing techniques to inspect and interpret the internal behavior of GenIR systems.  
+IRLab has an extensive publication record (SIGIR, ACL, NeurIPS, etc.) and active industry collaborations applying GenIR in real-world settings.  
+
+*What we’re looking for*
+- Background in CS, AI, or related fields  
+- Interest in NLP, IR, and generative models (PhD) / experience building IR/NLP systems (Engineer)  
+- Strong coding skills in Python and familiarity with PyTorch, HuggingFace, or similar ML frameworks  
+- Bonus: prior experience with LLM fine-tuning, retrieval pipelines, or model interpretability  
+
+If you’re interested, please feel free to contact Prof. dr. Maarten de Rijke or me at [m.derijke@uva.nl / y.tang3@uva.nl] for further information or an discussion. It would be better to include your CV when reaching out.
+*Note*: The official job postings are still in preparation
+
 
 # 🔥 News
 - *Jun. 2025*: &nbsp;🎉🎉 I was recognized as an Outstanding Graduate of the University of Chinese Academy of Sciences, as well as an Outstanding Graduate of Beijing.
