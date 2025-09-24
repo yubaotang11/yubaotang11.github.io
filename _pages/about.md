@@ -100,12 +100,12 @@ If you’re interested, please feel free to contact Prof. dr. Maarten de Rijke o
 **_Yubao Tang_**, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke  
 
 
-# 📝 Industry applications
-[2024] **Book search**  
-Books contain complex, multi-faceted information. To address the unique challenges in book search, we designed an effective GR framework for book search, including data augmentation and outline-oriented book encoding, which outperforms the state-of-the-art GR baseline by 9.8% in terms of MRR@20 on the Baidu dataset.
+# 📝 Industry applications and Intership
+- *May. 2023 - Dec. 2024*, Baidu search
 
-[2023] **Official site retrieval at Baidu search**  
-Official site retrieval task aims to understand query intents on official sites operated by administrative units, and further guide the search engine to recall relevant official sites. We designed a generative retrieval method, called Semantic-enhanced DSI (Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies), and applied it into this task, which significantly outperformed the existing baseline of Baidu search engine by 8.83% in terms of Recall@20 on the online dataset.
+  - [2024] **Book search**: Books contain complex, multi-faceted information. To address the unique challenges in book search, we designed an effective GR framework for book search, including data augmentation and outline-oriented book encoding, which outperforms the state-of-the-art GR baseline by 9.8% in terms of MRR@20 on the Baidu dataset.
+
+  - [2023] **Official site retrieval at Baidu search**: Official site retrieval task aims to understand query intents on official sites operated by administrative units, and further guide the search engine to recall relevant official sites. We designed a generative retrieval method, called Semantic-enhanced DSI (Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies), and applied it into this task, which significantly outperformed the existing baseline of Baidu search engine by 8.83% in terms of Recall@20 on the online dataset.
 
 
 # 📝 Projects
@@ -134,8 +134,7 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
 - *Jan. 2024*, "Recent Advances in Generative Information Retrieval" at Baidu Inc. [[Slides](resources/GR_Tutorial_Slides_for_baidu.pdf)] 
 - *Nov. 2023*, "Semantic-Enhanced Differentiable Search Index" at Kuaishou Inc. [[Slides](resources/Introduction_to_GR.pdf)] 
 
-# 📝 Intership 
-- *May. 2023-Dec. 2024*, Baidu search
+
 
 # 📝 Teaching 
 - Recommender Systems (June 2025) – MSc Artificial Intelligence
