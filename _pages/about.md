@@ -45,7 +45,7 @@ If you’re interested, please feel free to contact Prof. dr. Maarten de Rijke o
 
 
 # 🔥 News
-- *Jun. 2025*: &nbsp;🎉🎉 I was recognized as an Outstanding Graduate of the University of Chinese Academy of Sciences, as well as an Outstanding Graduate of Beijing.
+- *Jun. 2025*: &nbsp;🎉🎉 I was recognized as an Outstanding Graduate of Beijing, as well as an Outstanding Graduate of the University of Chinese Academy of Sciences.
 - *Apr. 2025*: &nbsp;🎉🎉 Two research papers are accepted at the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025).
 - *Nov. 2024*: &nbsp;🎉🎉 A research paper is accepted at the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).
 - *Nov. 2024*: &nbsp;🎉🎉 I received the "National Scholarship"(国家奖学金).
@@ -117,6 +117,7 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
 
 
 # 🎖 Honors and Awards
+- *2025*: 🎖 Outstanding Graduate of Beijing
 - *2024*: 🎖 National Scholarship (国家奖学金)  
 - *2023*: 🎖 President of Institute of Computing Technology's Prize Scholarship (中国科学院计算所所长优秀奖)  
 - *2021, 2022, and 2023*: 🎖 Merit Student, University of Chinese Academy of Sciences (中国科学院大学三好学生)  
