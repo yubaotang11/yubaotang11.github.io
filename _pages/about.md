@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <p align="right" style="color: #999999; font-size: 0.9em;">
-  Last updated: September 16, 2025
+  Last updated: September 24, 2025
 </p>
 
 <span class='anchor' id='about-me'></span>
