@@ -140,8 +140,12 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
 # 📝 Teaching 
 - Recommender Systems (June 2025) – MSc Artificial Intelligence
   - University of Amsterdam, Amsterdam, The Netherlands
-  - Developed and delivered lectures on generative recommendation [[Slides](resources/Recsys_2025_Lecture_4_Generative approaches to recommender systems.pdf)], guided students in reproducing recommendation methods, and conducted assessments.
-    
+  - Developed and delivered lectures on generative recommendation [[Slides](resources/Recsys_2025_Lecture_4_Generative_approaches_to_recommender_systems.pdf)], guided students in reproducing recommendation methods, and conducted assessments.
+
+- Information Retrieval (Sep–Oct 2025) – BSc AI
+  - University of Amsterdam, Amsterdam, The Netherlands
+  - Lecturer for Learning to Rank and Semantic Matching [[Slides](resources/Recsys_2025_Lecture_4_Generative_approaches_to_recommender_systems.pdf)], conducting assessments, supporting students, and maintaining course materials.
+
 
 # 📝 Supervision 
 - Steven Dong (BSc., March 2025 – June 2025), University of Amsterdam
