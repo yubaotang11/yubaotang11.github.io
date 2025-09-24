@@ -15,6 +15,10 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<p align="right" style="color: #999999; font-size: 0.9em;">
+  Last updated: September 16, 2025
+</p>
+
 <span class='anchor' id='about-me'></span>
 
 I am a postdoctoral researcher at University of Amsterdam, working with Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/). I received my PhD degree from Institute of Computing Technology, Chinese Academy of Sciences, supervised by Prof. dr. [Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/). My research mainly focuses on Information Retrieval and Natural Language Processing. Currently, I’m working on applying language models on IR problems including generative document retrieval, generative recommendation and retrieval-augmented generation.
