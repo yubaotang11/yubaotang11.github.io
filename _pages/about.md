@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <p align="right" style="color: #999999; font-size: 0.9em;">
-  Last updated: September 24, 2025
+  Last updated: September 29, 2025
 </p>
 
 <span class='anchor' id='about-me'></span>
@@ -40,8 +40,8 @@ You’ll contribute to **key research areas**:
 - Strong coding skills in Python and familiarity with PyTorch, HuggingFace, or similar ML frameworks  
 - Bonus: prior experience with LLM fine-tuning, retrieval pipelines, or model interpretability  
 
-If you’re interested, please feel free to contact Prof. dr. Maarten de Rijke or me at [m.derijke@uva.nl / y.tang3@uva.nl] for further information or an discussion. It would be better to include your CV when reaching out.
-*Note*: The official job postings are still in preparation.
+If you’re interested, please submit your application via the [[official website](https://werkenbij.uva.nl/en/vacancies/three-phd-student-positions-in-generative-information-retrieval-netherlands-14432)].
+
 
 
 # 🔥 News
