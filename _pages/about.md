@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <p align="right" style="color: #999999; font-size: 0.9em;">
-  Last updated: September 29, 2025
+  Last updated: Jan 2, 2026
 </p>
 
 <span class='anchor' id='about-me'></span>
@@ -129,10 +129,11 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
 # 📝 Supervision 
 - Steven Dong (BSc., March 2025 – June 2025), University of Amsterdam
   - Thesis: The integration of Chain of Thought in Generative Information Retrieval
+  - Publication: "Multi-Step Semantic Reasoning in Generative Retrieval" (ECIR 2026)
 
 # 💗 Academic Service
-- *Program Committee / Conference Reviewer*: WSDM 2025, EMNLP ARR 2025, NeurIPS 2025, SIGIR 2025, ACL ARR 2025, KDD 2025, Gen-IR@SIGIR24, Gen-IR@SIGIR23, WI-IAT 2023
-- *Journal reviewer*: Transactions on Information Systems, Information Processing and Management
+- *Program Committee / Conference Reviewer*: SIGIR 2026, ECIR 2026, WWW 2026, KDD 2026, WSDM 2025, EMNLP ARR 2025, NeurIPS 2025, SIGIR 2025, ACL ARR 2025, KDD 2025, Gen-IR@SIGIR24, Gen-IR@SIGIR23, WI-IAT 2023
+- *Journal reviewer*: Transactions on Intelligent Systems and Technology, Transactions on Information Systems, Information Processing and Management
 - *Volunteer*: SIGIR-AP 2023
 
 # 🗺 Visitors
