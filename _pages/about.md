@@ -40,7 +40,7 @@ I am a postdoctoral researcher at University of Amsterdam, working with Prof. dr
 
 [SIGIR 2026] **Lost in Decoding? Reproducing and Stress-Testing the Look-Ahead Prior in Generative Retrieval** [[PDF](resources/PAG_SIGIR2026.pdf)]      
    The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (CCF-A)  
-   Kidist Amde Mekonnen, **_Yubao Tang_** and Maarten de Rijke  
+   Kidist Amde Mekonnen, Yongkang Li, **_Yubao Tang_**, Simon Lupart and Maarten de Rijke  
    
 [SIGIR 2025] **Boosting Retrieval-Augmented Generation with Generation-Augmented Retrieval: A Co-Training Approach** [[PDF](resources/MINT_SIGIR2025.pdf)]      
    The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (CCF-A)  
