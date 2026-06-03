@@ -25,6 +25,7 @@ I am a postdoctoral researcher at University of Amsterdam, working with Prof. dr
 
 
 # 🔥 News
+- *Apr. 2026*: &nbsp;🎉🎉 two research paper are accepted at the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026).
 - *Jun. 2025*: &nbsp;🎉🎉 I was recognized as an Outstanding Graduate of Beijing, as well as an Outstanding Graduate of the University of Chinese Academy of Sciences.
 - *Apr. 2025*: &nbsp;🎉🎉 Two research papers are accepted at the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025).
 - *Nov. 2024*: &nbsp;🎉🎉 A research paper is accepted at the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).
@@ -33,6 +34,14 @@ I am a postdoctoral researcher at University of Amsterdam, working with Prof. dr
 - *May. 2024*: &nbsp;🎉🎉 A research paper is accepted at the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024).
 
 # 📝 Publications 
+[SIGIR 2026] **A Parametric Memory Head for Continual Generative Retrieval** [[PDF](resources/SMF_SIGIR2026.pdf)]      
+   The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (CCF-A)  
+   Kidist Amde Mekonnen, **_Yubao Tang_** and Maarten de Rijke  
+
+[SIGIR 2026] **Lost in Decoding? Reproducing and Stress-Testing the Look-Ahead Prior in Generative Retrieval** [[PDF](resources/PAG_SIGIR2026.pdf)]      
+   The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (CCF-A)  
+   Kidist Amde Mekonnen, **_Yubao Tang_** and Maarten de Rijke  
+   
 [SIGIR 2025] **Boosting Retrieval-Augmented Generation with Generation-Augmented Retrieval: A Co-Training Approach** [[PDF](resources/MINT_SIGIR2025.pdf)]      
    The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (CCF-A)  
    **_Yubao Tang_**, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke, Yixing Fan and Xueqi Cheng  
@@ -89,6 +98,9 @@ I am a postdoctoral researcher at University of Amsterdam, working with Prof. dr
 
 
 # 📝 Projects
+[2026] **European Research Council Advanced Grant “Robust Generative Information Retrieval”**  
+I serve as a core researcher in this project, contributing to research on generative information retrieval, recommender systems, and multimodal retrieval. My role focuses on advancing robust and reliable retrieval technologies, supporting the project’s research agenda, and co-supervising PhD students in related areas.
+
 [2024] **Co-training framework for Retrieval-augmented Generation and Generation-augmented Retrieval**  
 We design the framework as a cooperative two-player game, leveraging the complementarity between retrieval-augmented generation (RAG) and generation-augmented retrieval (GAR) to progressively improve RAG performance. Additionally, we address privacy concerns, particularly the leakage of Personally Identifiable Information (PII), by identifying and neutralizing the neurons in the generator responsible for PII while preserving model performance.
 
@@ -132,7 +144,7 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
   - Publication: "Multi-Step Semantic Reasoning in Generative Retrieval" (ECIR 2026)
 
 # 💗 Academic Service
-- *Program Committee / Conference Reviewer*: SIGIR 2026, ECIR 2026, WWW 2026, KDD 2026, WSDM 2025, EMNLP ARR 2025, NeurIPS 2025, SIGIR 2025, ACL ARR 2025, KDD 2025, Gen-IR@SIGIR24, Gen-IR@SIGIR23, WI-IAT 2023
+- *Program Committee / Conference Reviewer*: CIKM 2026, SIGIR 2026, ECIR 2026, WWW 2026, KDD 2026, WSDM 2025, EMNLP ARR 2025, NeurIPS 2025, SIGIR 2025, ACL ARR 2025, KDD 2025, Gen-IR@SIGIR24, Gen-IR@SIGIR23, WI-IAT 2023
 - *Journal reviewer*: Transactions on Intelligent Systems and Technology, Transactions on Information Systems, Information Processing and Management
 - *Volunteer*: SIGIR-AP 2023
 
