@@ -25,7 +25,7 @@ I am a postdoctoral researcher at University of Amsterdam, working with Prof. dr
 
 
 # 🔥 News
-- *Apr. 2026*: &nbsp;🎉🎉 two research paper are accepted at the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026).
+- *Apr. 2026*: &nbsp;🎉🎉 Two research papers are accepted at the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026).
 - *Jun. 2025*: &nbsp;🎉🎉 I was recognized as an Outstanding Graduate of Beijing, as well as an Outstanding Graduate of the University of Chinese Academy of Sciences.
 - *Apr. 2025*: &nbsp;🎉🎉 Two research papers are accepted at the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025).
 - *Nov. 2024*: &nbsp;🎉🎉 A research paper is accepted at the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).
