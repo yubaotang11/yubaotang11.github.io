@@ -131,11 +131,11 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
 # 📝 Teaching 
 - Recommender Systems (June 2026) – MSc Artificial Intelligence
   - University of Amsterdam, Amsterdam, The Netherlands
-  - Co-coordinated a Master’s-level course with 70+ students and a 12-member TA team. Coordinated the course schedule and lectures, managed project and TA allocation, assessment design and grading, student communication, and computing resources, and organized the mid-term evaluations and final student conference. 
+  - Co-coordinated this course with 70+ students and a 12-member TA team. Coordinated the course schedule and lectures, managed project and TA allocation, assessment design and grading, student communication, and computing resources, and organized the mid-term evaluations and final student conference. 
     
 - Recommender Systems (June 2025) – MSc Artificial Intelligence
   - University of Amsterdam, Amsterdam, The Netherlands
-  - Co-coordinated a course with 80 students, covering course scheduling, project and TA coordination, assessment and grading, student communication, and course logistics. Delivered a lecture on generative recommendation [[Slides](resources/Recsys_2025_Lecture_4_Generative_approaches_to_recommender_systems.pdf)] and supervised two student project teams, supporting the development of their course projects into research paper submissions.
+  - Co-coordinated this course with 80 students, covering course scheduling, project and TA coordination, assessment and grading, student communication, and course logistics. Delivered a lecture on generative recommendation [[Slides](resources/Recsys_2025_Lecture_4_Generative_approaches_to_recommender_systems.pdf)] and supervised two student project teams, supporting the development of their course projects into research paper submissions.
 
 - Information Retrieval (Sep–Oct 2025) – BSc AI
   - University of Amsterdam, Amsterdam, The Netherlands
