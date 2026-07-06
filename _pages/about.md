@@ -129,17 +129,18 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
 
 
 # 📝 Teaching 
-- Recommender Systems (June 2026) – MSc Artificial Intelligence
-  - University of Amsterdam, Amsterdam, The Netherlands
-  - Co-coordinated this course with 70+ students and a 12-member TA team. Coordinated the course schedule and lectures, managed project and TA allocation, assessment design and grading, student communication, and computing resources, and organized the mid-term evaluations and final student conference. 
-    
-- Recommender Systems (June 2025) – MSc Artificial Intelligence
-  - University of Amsterdam, Amsterdam, The Netherlands
-  - Co-coordinated this course with 80 students, covering course scheduling, project and TA coordination, assessment and grading, student communication, and course logistics. Delivered a lecture on generative recommendation [[Slides](resources/Recsys_2025_Lecture_4_Generative_approaches_to_recommender_systems.pdf)] and supervised two student project teams, supporting the development of their course projects into research paper submissions.
+- Co-coordinator, Recommender Systems (June 2026) – MSc Artificial Intelligence
+    - University of Amsterdam, Amsterdam, The Netherlands
+    - Co-coordinated the course for 70+ students with a 12-member TA team. Coordinated the course schedule and lectures, project and TA allocation, assessment and grading, student communication, and computing resources; organized the mid-term evaluations and final student conference.
 
-- Information Retrieval (Sep–Oct 2025) – BSc AI
-  - University of Amsterdam, Amsterdam, The Netherlands
-  - Supported course delivery through grading, on-site student support, and preparation of course materials. Delivered lectures on Learning to Rank and Semantic Matching [[Slides](resources/Week_4-LTR_And_Semantic_Matching.pdf)].
+- Co-coordinator, Recommender Systems (June 2025) – MSc Artificial Intelligence
+    - University of Amsterdam, Amsterdam, The Netherlands
+    - Co-coordinated the course for 80 students, including course scheduling, project and TA coordination, assessment and grading, student communication, and course logistics. Delivered a lecture on Generative Recommendation [[Slides](resources/Recsys_2025_Lecture_4_Generative_approaches_to_recommender_systems.pdf)]  and supervised two student project teams, supporting the development of their projects into research paper submissions.
+
+- Teaching Assistant, Information Retrieval (Sep–Oct 2025) – BSc Artificial Intelligence
+    - University of Amsterdam, Amsterdam, The Netherlands
+    - Supported course delivery through grading, in-class student support, and preparation of course materials. Delivered lectures on Learning to Rank and Semantic Matching [[Slides](resources/Week_4-LTR_And_Semantic_Matching.pdf)].
+      
 
 # 📝 Supervision 
 - Steven Dong (BSc., March 2025 – June 2025), University of Amsterdam
