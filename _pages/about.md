@@ -131,7 +131,7 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
 # 📝 Teaching 
 - Co-coordinator, Recommender Systems (June 2026) – MSc Artificial Intelligence
     - University of Amsterdam, Amsterdam, The Netherlands
-    - Co-coordinated the course for 70+ students with a 12-member TA team. Coordinated the course schedule and lectures, project and TA allocation, assessment and grading, student communication, and computing resources; organized the mid-term evaluations and final student conference. Delivered a lecture on Traditional Recommendation Methods [[Slides](resources/Recsys_2026_Lecture_1.pdf)].
+    - Co-coordinated the course for 70+ students with a 12-member TA team. Coordinated the course schedule and lectures, project and TA allocation, assessment and grading, student communication, and computing resources; organized the mid-term evaluations and final student conference. Delivered a lecture on Traditional Recommendation Methods [[Slides](https://drive.google.com/file/d/1m0zmvzXRIO8zcnNnr83K7Q29ned7gd8-/view?usp=sharing)].
 
 - Co-coordinator, Recommender Systems (June 2025) – MSc Artificial Intelligence
     - University of Amsterdam, Amsterdam, The Netherlands
