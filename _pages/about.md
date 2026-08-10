@@ -153,5 +153,5 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
 - *Volunteer*: SIGIR-AP 2023
 
 # 🗺 Visitors
-<p align="left"><script type='text/javascript' id='clustrmaps' src="//clustrmaps.com/map_v2.js?d=x8LNUtBmFleCVRz5MLrkTsnhzd_J_MZUJx-P28qFPmI&cl=ffffff&w=a"></script></p>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=0yKcrj3R-zDliR7VQKPbBZRjt7FsMeqcorywi6FEYnE&cl=ffffff&w=a"></script>
 
