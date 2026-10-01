@@ -16,24 +16,54 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <p align="right" style="color: #999999; font-size: 0.9em;">
-  Last updated: Jul 6, 2026
+  Last updated: Oct 1, 2026
 </p>
 
 <span class='anchor' id='about-me'></span>
 
 I am a postdoctoral researcher at University of Amsterdam, working with Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/). I received my PhD degree from Institute of Computing Technology, Chinese Academy of Sciences, supervised by Prof. dr. [Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/). My research mainly focuses on Information Retrieval and Natural Language Processing. Currently, I’m working on applying language models on IR problems including generative document retrieval, generative recommendation and retrieval-augmented generation.
 
+<p align="center">✦</p>
+
+<table>
+<tr>
+<td>
+
+<div align="center">
+<b>📢 GRIT @ SIGIR-AP 2026</b> · <i>Singapore, Dec. 13, 2026</i>
+</div>
+
+<br>
+
+📝 <b>Call for Papers</b> <i>(due Oct. 2, 2026, AoE)</i> — We welcome submissions on generative retrieval, generative recommendation, and related topics.
+
+🎙️ <b>Call for Industry Speakers & Panelists</b> — We are looking for researchers and practitioners from the <b>Asia-Pacific industry community</b> working on generative retrieval or recommendation.
+
+<div align="center">
+
+🌐 <b><a href="https://grit-genir.github.io/workshop-sigir-ap-2026/">Workshop Website</a></b>
+&nbsp;&nbsp; | &nbsp;&nbsp;
+✉️ <b><a href="y.tang3@uva.nl">Contact Me</a></b>
+
+</div>
+
+</td>
+</tr>
+</table>
+
 
 # 🔥 News
+- *Sep. 2026*: &nbsp;🎉🎉 A research paper is accepted at the 40th Annual Conference on Neural Information Processing Systems (NeurIPS 2026).
+- *Aug. 2026*:  🎉🎉 Our workshop, Generative Information Retrieval in the Wild (GRIT), is accepted at SIGIR-AP 2026.
 - *Apr. 2026*: &nbsp;🎉🎉 Two research papers are accepted at the 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026).
 - *Jun. 2025*: &nbsp;🎉🎉 I was recognized as an Outstanding Graduate of Beijing, as well as an Outstanding Graduate of the University of Chinese Academy of Sciences.
 - *Apr. 2025*: &nbsp;🎉🎉 Two research papers are accepted at the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025).
-- *Nov. 2024*: &nbsp;🎉🎉 A research paper is accepted at the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).
-- *Nov. 2024*: &nbsp;🎉🎉 I received the "National Scholarship"(国家奖学金).
-- *Sep. 2024*: &nbsp;🎉🎉 A research paper is accepted at the 38th Annual Conference on Neural Information Processing Systems (NeurIPS 2024) as Spotlight.
-- *May. 2024*: &nbsp;🎉🎉 A research paper is accepted at the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024).
 
 # 📝 Publications 
+[NeurIPS 2026] **Closing the Indexing-Decoding Gap in Multimodal Generative Retrieval via Prefix Retention Optimization**      
+   The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (CCF-A)  
+   Yufei Chen, Zihan Wang, **_Yubao Tang_**, Yukun Zhao, Maarten de Rijke, and Zhaochun Ren
+
 [SIGIR 2026] **A Parametric Memory Head for Continual Generative Retrieval** [[PDF](resources/SMF_SIGIR2026.pdf)]      
    The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval (CCF-A)  
    Kidist Amde Mekonnen, **_Yubao Tang_** and Maarten de Rijke  
@@ -88,6 +118,13 @@ I am a postdoctoral researcher at University of Amsterdam, working with Prof. dr
 [SIGIR-AP 2023] **Recent Advances in Generative Information Retrieval** [[Website](https://sigir-ap2023-generative-ir.github.io)]   
 **_Yubao Tang_**, Ruqing Zhang, Jiafeng Guo, Maarten de Rijke  
 
+# 🧩 Workshop Organization
+
+* GRIT: Generative Information Retrieval in the Wild – Foundations and Real-World Readiness [[Website](https://grit-genir.github.io/workshop-sigir-ap-2026/)]
+    * Organizer, SIGIR-AP 2026, Singapore, Dec. 13, 2026
+    * A workshop on the foundations and real-world readiness of generative retrieval and recommendation, covering reliability, continual adaptation, scalability, evaluation, and industrial deployment.
+  
+
 
 # 📝 Industry applications and Intership
 - *May. 2023 - Dec. 2024*, Baidu search
@@ -127,8 +164,11 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
 - *Nov. 2023*, "Semantic-Enhanced Differentiable Search Index" at Kuaishou Inc. [[Slides](resources/Introduction_to_GR.pdf)] 
 
 
-
 # 📝 Teaching 
+- Guest Lecturer, Information Retrieval (Sep.2026) – BSc Artificial Intelligence
+    - University of Amsterdam, Amsterdam, The Netherlands
+    - Delivered a guest lecture on Learning to Rank and Semantic Matching. [Slides](resources/LTR_and_Semantic Matching.pdf)] 
+      
 - Co-coordinator, Recommender Systems (June 2026) – MSc Artificial Intelligence
     - University of Amsterdam, Amsterdam, The Netherlands
     - Co-coordinated the course for 70+ students with a 12-member TA team. Coordinated the course schedule and lectures, project and TA allocation, assessment and grading, student communication, and computing resources; organized the mid-term evaluations and final student conference. Delivered a lecture on Traditional Recommendation Methods [[Slides](https://drive.google.com/file/d/1m0zmvzXRIO8zcnNnr83K7Q29ned7gd8-/view?usp=sharing)].
@@ -147,10 +187,23 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
   - Thesis: The integration of Chain of Thought in Generative Information Retrieval
   - Publication: "Multi-Step Semantic Reasoning in Generative Retrieval" (ECIR 2026)
 
+
 # 💗 Academic Service
-- *Program Committee / Conference Reviewer*: CIKM 2026, SIGIR 2026, ECIR 2026, WWW 2026, KDD 2026, WSDM 2025, EMNLP ARR 2025, NeurIPS 2025, SIGIR 2025, ACL ARR 2025, KDD 2025, Gen-IR@SIGIR24, Gen-IR@SIGIR23, WI-IAT 2023
-- *Journal reviewer*: Transactions on Intelligent Systems and Technology, Transactions on Information Systems, Information Processing and Management
-- *Volunteer*: SIGIR-AP 2023
+
+### Conference Reviewing
+- **2027:** KDD, WSDM
+- **2026:** CIKM, SIGIR, ECIR, WWW, KDD
+- **2025:** WSDM, NeurIPS, SIGIR, KDD, ACL ARR, EMNLP ARR
+- **2024:** Gen-IR @ SIGIR
+- **2023:** Gen-IR @ SIGIR, WI-IAT
+
+### Journal Reviewing
+- ACM Transactions on Information Systems (TOIS)
+- ACM Transactions on Intelligent Systems and Technology (TIST)
+- Information Processing & Management (IP&M)
+
+### Other Service
+- **Volunteer:** SIGIR-AP 2023
 
 # 🗺 Visitors
 <script type="text/javascript" id="mapmyvisitors"
