@@ -167,7 +167,7 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
 # 📝 Teaching 
 - Guest Lecturer, Information Retrieval (Sep.2026) – BSc Artificial Intelligence
     - University of Amsterdam, Amsterdam, The Netherlands
-    - Delivered a guest lecture on Learning to Rank and Semantic Matching. [Slides](resources/LTR_and_Semantic Matching.pdf)] 
+    - Delivered a guest lecture on Learning to Rank and Semantic Matching. [[Slides](resources/2026_LTR_and_Semantic Matching.pdf)] 
       
 - Co-coordinator, Recommender Systems (June 2026) – MSc Artificial Intelligence
     - University of Amsterdam, Amsterdam, The Netherlands
