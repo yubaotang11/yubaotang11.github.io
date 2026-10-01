@@ -12,6 +12,9 @@ main:
   - title: "Tutorials"
     url: "/#-tutorials"
 
+  - title: "Workshop organization"
+    url: "/#-Workshop organization"
+
   - title: "Industry applications"
     url: "/#-industry-applications"
 
