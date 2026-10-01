@@ -23,29 +23,29 @@ redirect_from:
 
 I am a postdoctoral researcher at University of Amsterdam, working with Prof. dr. [Maarten de Rijke](https://staff.fnwi.uva.nl/m.derijke/). I received my PhD degree from Institute of Computing Technology, Chinese Academy of Sciences, supervised by Prof. dr. [Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/). My research mainly focuses on Information Retrieval and Natural Language Processing. Currently, I’m working on applying language models on IR problems including generative document retrieval, generative recommendation and retrieval-augmented generation.
 
-<p align="center">✦</p>
+<p align="center">✦✦✦</p>
 
-<table>
+<table width="100%">
 <tr>
 <td>
 
-<div align="center">
+<p align="center">
 <b>📢 GRIT @ SIGIR-AP 2026</b> · <i>Singapore, Dec. 13, 2026</i>
-</div>
+</p>
 
-<br>
-
+<p>
 📝 <b>Call for Papers</b> <i>(due Oct. 2, 2026, AoE)</i> — We welcome submissions on generative retrieval, generative recommendation, and related topics.
+</p>
 
+<p>
 🎙️ <b>Call for Industry Speakers & Panelists</b> — We are looking for researchers and practitioners from the <b>Asia-Pacific industry community</b> working on generative retrieval or recommendation.
+</p>
 
-<div align="center">
-
+<p align="center">
 🌐 <b><a href="https://grit-genir.github.io/workshop-sigir-ap-2026/">Workshop Website</a></b>
 &nbsp;&nbsp; | &nbsp;&nbsp;
-✉️ <b><a href="y.tang3@uva.nl">Contact Me</a></b>
-
-</div>
+✉️ <b><a href="mailto:YOUR_EMAIL">Contact Me</a></b>
+</p>
 
 </td>
 </tr>
