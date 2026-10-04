@@ -191,7 +191,7 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
 # 💗 Academic Service
 
 ### Conference Reviewing
-- **2027:** KDD, WSDM
+- **2027:** KDD, WSDM, NeurIPS, ICLR, ECIR, CIKM
 - **2026:** CIKM, SIGIR, ECIR, WWW, KDD
 - **2025:** WSDM, NeurIPS, SIGIR, KDD, ACL ARR, EMNLP ARR
 - **2024:** Gen-IR @ SIGIR
