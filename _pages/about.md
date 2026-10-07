@@ -34,10 +34,6 @@ I am a postdoctoral researcher at University of Amsterdam, working with Prof. dr
 </p>
 
 <p>
-📝 <b>Call for Papers</b> <i>(due Oct. 2, 2026, AoE)</i> — We welcome submissions on generative retrieval, generative recommendation, and related topics.
-</p>
-
-<p>
 🎙️ <b>Call for Industry Speakers & Panelists</b> — We are looking for researchers and practitioners from the <b>Asia-Pacific industry community</b> working on generative retrieval or recommendation.
 </p>
 
