@@ -117,7 +117,7 @@ I am a postdoctoral researcher at University of Amsterdam, working with Prof. dr
 # 🧩 Workshop Organization
 
 * GRIT: Generative Information Retrieval in the Wild – Foundations and Real-World Readiness [[Website](https://grit-genir.github.io/workshop-sigir-ap-2026/)]
-    * Organizer, SIGIR-AP 2026, Singapore, Dec. 13, 2026
+    * Lead organizer, SIGIR-AP 2026, Singapore, Dec. 13, 2026
     * A workshop on the foundations and real-world readiness of generative retrieval and recommendation, covering reliability, continual adaptation, scalability, evaluation, and industrial deployment.
   
 
@@ -131,8 +131,8 @@ I am a postdoctoral researcher at University of Amsterdam, working with Prof. dr
 
 
 # 📝 Projects
-[2026] **European Research Council Advanced Grant “Robust Generative Information Retrieval”**  
-I serve as a core researcher in this project, contributing to research on generative information retrieval, recommender systems, and multimodal retrieval. My role focuses on advancing robust and reliable retrieval technologies, supporting the project’s research agenda, and co-supervising PhD students in related areas.
+[2026] ** UNITE - Robust Generative Information Retrieval (European Research Council Advanced Grant)**  
+I took a leading role in this project, contributing to research on generative information retrieval, recommender systems, and multimodal retrieval. My role focuses on advancing robust and reliable retrieval technologies, supporting the project’s research agenda, and co-supervising PhD students in related areas.
 
 [2024] **Co-training framework for Retrieval-augmented Generation and Generation-augmented Retrieval**  
 We design the framework as a cooperative two-player game, leveraging the complementarity between retrieval-augmented generation (RAG) and generation-augmented retrieval (GAR) to progressively improve RAG performance. Additionally, we address privacy concerns, particularly the leakage of Personally Identifiable Information (PII), by identifying and neutralizing the neurons in the generator responsible for PII while preserving model performance.
@@ -165,7 +165,7 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
     - University of Amsterdam, Amsterdam, The Netherlands
     - Delivered a guest lecture on Learning to Rank and Semantic Matching. [[Slides](resources/2026_LTR_and_Semantic Matching.pdf)] 
       
-- Co-coordinator, Recommender Systems (June 2026) – MSc Artificial Intelligence
+- Lead coordinator, Recommender Systems (June 2026) – MSc Artificial Intelligence
     - University of Amsterdam, Amsterdam, The Netherlands
     - Co-coordinated the course for 70+ students with a 12-member TA team. Coordinated the course schedule and lectures, project and TA allocation, assessment and grading, student communication, and computing resources; organized the mid-term evaluations and final student conference. Delivered a lecture on Traditional Recommendation Methods [[Slides](https://drive.google.com/file/d/1m0zmvzXRIO8zcnNnr83K7Q29ned7gd8-/view?usp=sharing)].
 
