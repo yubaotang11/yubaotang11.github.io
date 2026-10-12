@@ -136,7 +136,7 @@ I am always open to new collaborations. If you are interested in Generative Info
 
 
 # 📝 Projects
-[2026] ** UNITE - Robust Generative Information Retrieval (European Research Council Advanced Grant)**  
+[2026] **UNITE - Robust Generative Information Retrieval**  (European Research Council Advanced Grant)  
 I took a leading role in this project, contributing to research on generative information retrieval, recommender systems, and multimodal retrieval. My role focuses on advancing robust and reliable retrieval technologies, supporting the project’s research agenda, and co-supervising PhD students in related areas.
 
 [2024] **Co-training framework for Retrieval-augmented Generation and Generation-augmented Retrieval**  
@@ -148,9 +148,9 @@ GoMate is a comprehensive knowledge-based QA application based on large LLMs. It
 
 # 🎖 Honors and Awards
 - *2025*: 🎖 Outstanding Graduate of Beijing
-- *2024*: 🎖 National Scholarship (国家奖学金)  
-- *2023*: 🎖 President of Institute of Computing Technology's Prize Scholarship (中国科学院计算所所长优秀奖)  
-- *2021, 2022, and 2023*: 🎖 Merit Student, University of Chinese Academy of Sciences (中国科学院大学三好学生)  
+- *2024*: 🎖 National Scholarship of China   
+- *2023*: 🎖 President of Institute of Computing Technology's Prize Scholarship   
+- *2021, 2022, and 2023*: 🎖 Merit Student, University of Chinese Academy of Sciences   
 
 
 # 📖 Educations
